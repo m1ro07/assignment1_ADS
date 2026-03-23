@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void printDigits(int n){
-        if(n==0){
+        if(n==0) {
             System.out.println();
         }
         else{
