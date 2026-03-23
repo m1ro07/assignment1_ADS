@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class task1 {
     public static void printDigits(int n){
         if(n==0) {
             System.out.println();
